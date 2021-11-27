@@ -13,3 +13,10 @@ Skills:  REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DibbenduBanikPurna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/purna.bonik.79)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/purnobanik/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibbenduBanikPurna)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DibbenduBanikPurna&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DibbenduBanikPurna)  
+
+![Profile views](https://gpvc.arturio.dev/DibbenduBanikPurna)  
